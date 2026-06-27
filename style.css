@@ -286,6 +286,9 @@ body {
   height: 100px;
   color: #102040;
 }
+input {
+  margin-bottom: 12px;
+}
 
 #contact button {
   margin-top: 15px;
